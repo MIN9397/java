@@ -79,7 +79,7 @@ public class MinEx {
 		int ww = (s01 + s02)*2;
 		
 		//출력
-				
+		System.out.println("면적: "+ee);		
 		System.out.println("면적: "+ee);
 		System.out.println("둘레: "+ww);
 		System.out.printf("입력한 사각형의 면적은 %s이고 둘레는 %s 입니다.",ee,ww);
